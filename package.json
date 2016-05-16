@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-gistrun",
+  "version": "0.1.0",
+  "description": "A gitbook plugin to embed gists using gist.run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitbookIO/plugin-gistrun.git"
+  },
+  "keywords": [
+    "gitbook",
+    "gist",
+    "gistrun",
+    "gist.run",
+    "plugin"
+  ],
+  "author": "Aaron O'Mullan <aaron@gitbook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitbookIO/plugin-gistrun/issues"
+  },
+  "homepage": "https://github.com/GitbookIO/plugin-gistrun#readme"
+}
