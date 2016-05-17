@@ -10,8 +10,8 @@ function embedHTML(id) {
     var url = embedUrl(id);
     // Build our HTML
     return [
-        '<div class="gistrun-snippet" style="border: 1px solid #ddd; border-radius: 3px;>',
-            '<iframe ref="iframe" frameborder="0" src="'+url+'"></iframe>',
+        '<div class="gistrun-embed" style="border: 1px solid #ddd; border-radius: 3px;">',
+            '<iframe ref="gistrun-embed" frameborder="0" height="400" width="100%" src="'+url+'"></iframe>',
         '</div>',
     ].join('\n');
 }
