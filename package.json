@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-gistrun",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A gitbook plugin to embed gists using gist.run",
   "main": "index.js",
   "scripts": {
