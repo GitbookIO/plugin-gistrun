@@ -24,4 +24,4 @@ Once you've added the plugin you'll now be able to use the `gistrun` tag in your
 
 This will render as:
 
-<TODO: add screenshot>
+![Demo GIF](https://raw.githubusercontent.com/GitbookIO/plugin-gistrun/master/docs/demo.gif)
